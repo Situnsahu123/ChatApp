@@ -5,7 +5,7 @@ import Logout from "./LogOut"
 
 const Left = () => {
   return (
-    <div className="w-[30%] h-screen bg-gray-900 flex flex-col">
+    <div className=" w-[100%] h-screen bg-gray-900 flex flex-col">
       <Search />
       <div className="flex-1 overflow-y-auto py-2">
         <User />
